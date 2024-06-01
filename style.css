@@ -601,6 +601,8 @@ html{
     }
     .section-1-heading {
         font-size: 2rem;
+        letter-spacing: 0.2rem;
+        width: 35rem;
     }
     .person-img {
         width: 10rem;
